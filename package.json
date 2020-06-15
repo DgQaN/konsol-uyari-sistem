@@ -1,0 +1,19 @@
+{
+  "name": "konsol-uyari-sistem",
+  "version": "1.0",
+  "description": "Konsol Uyarı Sistemi",
+  "main": "./src/sistem.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DgQaN/konsol-uyari-sistem.git"
+  },
+  "author": "DgQaN",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/DgQaN/konsol-uyari-sistem/issues"
+  },
+  "homepage": "https://github.com/DgQaN/konsol-uyari-sistem#readme"
+}
