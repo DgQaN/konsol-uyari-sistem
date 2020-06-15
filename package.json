@@ -1,6 +1,6 @@
 {
   "name": "konsol-uyari-sistem",
-  "version": "1.0",
+  "version": "1.0.0",
   "description": "Konsol Uyarı Sistemi",
   "main": "./src/sistem.js",
   "scripts": {
