@@ -7,8 +7,8 @@
 ### JavaScript İçi Kodlar
 
 ``` js
-const { Uyari } = require('konsol-uyari-sistem');
-const uyari = new Uyari({
+const { Sistem } = require('konsol-uyari-sistem');
+const uyari = new Sistem({
   colors: true,
   timestamps: true,
   trace: true
